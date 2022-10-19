@@ -1,0 +1,37 @@
+conf
+hostname 
+conf
+vlan 2
+description CTX
+name CTX
+vlan 4
+description POS
+name POS
+vlan 5
+description LDT
+name LDT
+vlan 7
+description SI
+name SI
+vlan 8
+description VI
+name VI
+vlan 9
+description PMS
+name PMS
+vlan 30
+description REM
+name REM
+vlan 70
+description VoIP
+name VoIP
+vlan 91
+description LT
+name LT
+vlan 92
+description PLS
+name PLS
+vlan 134
+description VI-EX
+name VI-EX
+conf
